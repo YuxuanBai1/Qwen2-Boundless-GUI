@@ -14,8 +14,9 @@ Qwen2-Boundless 是一个基于 Qwen2-1.5B-Instruct 微调的模型，专为回�
 
 本程序仅支持连续回答，并不支持流式回答及其它。
 
-你可以使用以下命令克隆该仓库，运行 qwen-gui.py 即可起动本程序，或运行 qwen.py 体验命令行输入/输出
+你可以使用以下命令克隆该仓库，然后下载model，运行 qwen-gui.py 即可起动本程序，或运行 qwen.py 体验命令行输入/输出
 
 ```
 git clone https://github.com/YuxuanBai1/Qwen2-Boundless-GUI.git
 ```
+model链接：https://www.123pan.com/s/fmAqVv-Jp3pH
