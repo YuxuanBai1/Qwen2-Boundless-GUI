@@ -14,8 +14,10 @@ Qwen2-Boundless-GUI solves the problem of the less beautiful input of Qwen2-Boun
  
 This program only supports continuous responses, not streaming responses or others.
  
-You can clone the repository using the following command, and run qwen-gui.py to start the program, or run qwen.py to experience command line input/output
+You can clone the repository using the following command, Then download the model, and run qwen-gui.py to start the program, or run qwen.py to experience command line input/output
  
 ```
 git clone https://github.com/YuxuanBai1/Qwen2-Boundless-GUI.git
 ```
+
+Link to model: https://www.123pan.com/s/fmAqVv-Jp3pH
