@@ -18,11 +18,11 @@ messages = [
     {"role": "system", "content": ""}
 ]
 
-while True:
-    # 获取用户输入
-    username_input=input("请输入您的昵称：")
-    user_input = input(f"{username_input}: ")
+# 获取用户输入
+username_input=input("请输入您的昵称：")
+user_input = input(f"{username_input}: ")
 
+while True:
     # 将用户输入添加到对话中
     messages.append({"role": "user", "content": user_input})
 
